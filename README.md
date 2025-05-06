@@ -96,7 +96,4 @@ The CRM differentiates itself from competitors by offering the following feature
 - **Real-Time Updates**: Stay updated with real-time notifications and alerts.
 - **Interactive Features**: Users can participate in mosque activities, donate, and provide feedback through the app.
 
-## Contact Us
-For more information or to get started with our Muslim-Centric Religious CRM, please contact us at [contact@muslimcrm.com](mailto:contact@muslimcrm.com) or visit our website at [https://muslimcrm.com](https://muslimcrm.com).
-
 ---
