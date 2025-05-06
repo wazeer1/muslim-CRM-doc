@@ -9,7 +9,8 @@
 6. [Technical Stack](#technical-stack)
 7. [Customization](#customization)
 8. [Donation Management](#donation-management)
-9. [Contact Us](#contact-us)
+9. [Additional Features](#additional-features)
+10. [Contact Us](#contact-us)
 
 ## Introduction
 This document introduces a Muslim-Centric Religious CRM designed exclusively for Islamic institutions, including masjids (mosques), madrasas, Islamic charities, dawah organizations, and Islamic NGOs. The CRM aims to provide comprehensive tools and features tailored to the needs of these organizations, enhancing their operational efficiency and community engagement.
@@ -44,7 +45,7 @@ The CRM differentiates itself from competitors by offering the following feature
 | Zakat & Sadaqah Module | ❌ | ❌ | General | Dynamic + rules-based |
 | Qur’an Class / Madrasa Management | ❌ | ❌ | ❌ | Timetables, fees, progress |
 | Khutbah / Imam Scheduling | Manual | ❌ | ❌ | Rota system, reminders |
-| Volunteer / Iftar / Ramadan Mgmt. | ❌ | ❌ | ❌ | Integrated |
+| Volunteer / Iftar / Ramadan Management | ❌ | ❌ | ❌ | Integrated |
 | Jummah Slot Booking (Post-COVID) | Basic | ❌ | ❌ | Optimized with QR codes |
 | Multilingual with RTL (Arabic/Urdu) | Arabic only | Limited | Limited | Arabic, Urdu, Malay, more |
 | Mobile App Ready (React Native) | ❌ | ✅ | ✅ | ✅ (Admin + User sides) |
@@ -76,4 +77,26 @@ The CRM differentiates itself from competitors by offering the following feature
 - **Campaigns**: Zakat, Fitrah, Sadaqah, Waqf with prebuilt Islamic categories.
 - **Online Payment Gateway**: Integration with Stripe/Razorpay.
 - **QR-Code Donations**: Track pledges vs. fulfilled payments.
+
+## Additional Features
+### Mosque Member Management
+- **Add Members and Families**: Mosque admins can add members and families to their mosque province.
+- **Family Profiles**: Manage family profiles with detailed information and contact details.
+
+### Financial Management
+- **Income and Expense Tracking**: Manage income and expenses with detailed records.
+- **Privileged Access**: Only privileged users can view financial records, ensuring data security and privacy.
+
+### Notifications
+- **Donation Alerts**: Users receive notifications when donations are required.
+- **Event Reminders**: Automated reminders for upcoming events, prayers, and other important dates.
+
+### Mobile App Features
+- **Mosque Information**: Users can view information about their related mosques, including prayer times, events, and announcements.
+- **Real-Time Updates**: Stay updated with real-time notifications and alerts.
+- **Interactive Features**: Users can participate in mosque activities, donate, and provide feedback through the app.
+
+## Contact Us
+For more information or to get started with our Muslim-Centric Religious CRM, please contact us at [contact@muslimcrm.com](mailto:contact@muslimcrm.com) or visit our website at [https://muslimcrm.com](https://muslimcrm.com).
+
 ---
