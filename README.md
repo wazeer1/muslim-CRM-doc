@@ -76,8 +76,4 @@ The CRM differentiates itself from competitors by offering the following feature
 - **Campaigns**: Zakat, Fitrah, Sadaqah, Waqf with prebuilt Islamic categories.
 - **Online Payment Gateway**: Integration with Stripe/Razorpay.
 - **QR-Code Donations**: Track pledges vs. fulfilled payments.
-
-## Contact Us
-For more information or to get started with our Muslim-Centric Religious CRM, please contact us at [contact@muslimcrm.com](mailto:contact@muslimcrm.com) or visit our website at [https://muslimcrm.com](https://muslimcrm.com).
-
 ---
